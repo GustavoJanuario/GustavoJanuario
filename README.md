@@ -19,7 +19,7 @@
   ##
 <div> 
  <a href = "mailto:gustavo.sjanuario@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
- <a href="ttps://www.linkedin.com/in/gustavo-januário-85136311a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/gustavo-januário-85136311a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
 ![Snake animation](https://github.com/gustavojanuario/gustavojanuario/blob/output/github-contribution-grid-snake.svg)
 
